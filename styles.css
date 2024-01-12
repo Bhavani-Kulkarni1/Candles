@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(253, 244, 246);
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    border-radius: 10px;
+}
+button{
+    margin-bottom: 20px;
+   
+}
